@@ -1,2 +1,2 @@
 // Write your solution here!
-let pets = []
+const pets = ["Milo", "Otis", "Garfield"]
